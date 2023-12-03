@@ -56,12 +56,12 @@ iframe {
 ------------------------- */
 .page-header {
     display: flex;
-    justify-content: space-between
+    justify-content: space-between;
     
 }
 .logo {
-    width: 240px;
-    margin-top: 1px
+    width: 210px;
+    margin-top: 1px;
 }
 
 .main-nav {
