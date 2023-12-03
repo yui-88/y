@@ -337,6 +337,10 @@ footer p {
         font-size: 2.5rem;
     }
     /* header */
+    .page-header {
+        flex-direction: column;
+        align-items: center;
+    }
     .main-nav {
         font-size: 1rem;
         margin-top: 10px;
